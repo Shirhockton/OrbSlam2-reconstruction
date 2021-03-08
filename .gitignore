@@ -1,0 +1,15 @@
+/.vs/*
+/mesh/*
+/x64/*
+OrbSlam24Windows.sln
+OrbSlam24Windows.VC.db
+/OrbSlam24Windows/*
+!/OrbSlam24Windows/src/
+!/OrbSlam24Windows/include/
+!/OrbSlam24Windows/CMakeLists.txt
+!/OrbSlam24Windows/Examples/Monocular/mono_tum.cc
+!/OrbSlam24Windows/Thirdparty/PointCloud/include/
+!/OrbSlam24Windows/Thirdparty/PointCloud/src/
+!/OrbSlam24Windows/Thirdparty/PointCloud/thirdParty/
+!/OrbSlam24Windows/Thirdparty/ReconstuctMesh/include/
+!/OrbSlam24Windows/Thirdparty/ReconstuctMesh/src/
